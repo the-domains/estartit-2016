@@ -12,9 +12,5 @@ color:
     - '#AEEE00'
 layout_spectrum: 0.4242906388826668
 name: Estartit 2016
-navigation:
-  - name: Hisaé
-    id: be9c53ae-8706-48ef-9d93-9dea047b5a19
-    type: content
 title: 15 jours de bonheur familial
 description: Sous le soleil catalan
