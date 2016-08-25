@@ -1,4 +1,5 @@
-typography_spectrum: 0.04650635248981416
+layout_spectrum: 0.8937995401211083
+typography_spectrum: 0.24341279664076865
 color:
   brandStrength: 0.39509348082356155
   lightness: 0.3154072454199195
@@ -10,7 +11,6 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-layout_spectrum: 0.4242906388826668
 name: Estartit 2016
 navigation:
   - name: ACTION
