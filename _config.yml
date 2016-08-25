@@ -1,4 +1,3 @@
-layout_spectrum: 0.9784296997822821
 typography_spectrum: 0.2204056482296437
 color:
   brandStrength: 0.4025899753905833
@@ -11,6 +10,7 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
+layout_spectrum: 0.9784296997822821
 name: Estartit 2016
 navigation:
   - name: Aurane
@@ -19,3 +19,4 @@ navigation:
   - name: Hisaé
     id: be9c53ae-8706-48ef-9d93-9dea047b5a19
     type: content
+title: 15 jours de bonheur familial
