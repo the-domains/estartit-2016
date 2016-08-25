@@ -1,16 +1,16 @@
-typography_spectrum: 0.2204056482296437
+layout_spectrum: 0.4242906388826668
+typography_spectrum: 0.04650635248981416
 color:
-  brandStrength: 0.4025899753905833
-  lightness: 0.8150798929855227
-  saturation: 0.9803587810602039
-  rhythmicContrast: 0.8748665347229689
+  brandStrength: 0.39509348082356155
+  lightness: 0.3154072454199195
+  saturation: 0.7557342101354152
+  rhythmicContrast: 0.7552614831365645
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
-layout_spectrum: 0.9784296997822821
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: Estartit 2016
 navigation:
   - name: Aurane
