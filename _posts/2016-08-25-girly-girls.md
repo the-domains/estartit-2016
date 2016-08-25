@@ -1,20 +1,19 @@
 ---
-datePublished: '2016-08-25T16:22:42.555Z'
-author: []
-via: {}
-dateModified: '2016-08-25T16:22:34.624Z'
+id: b6b94e6e-0b94-4849-a8fc-bb55d01c91d2
+dateModified: '2016-08-25T16:31:07.173Z'
 title: GIRLY GIRLS
-publisher: {}
+datePublished: '2016-08-25T16:31:07.885Z'
+author: []
 description: ''
+publisher: {}
+via: {}
 starred: false
 sourcePath: _posts/2016-08-25-girly-girls.md
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: girly-girls/index.html
-_context: 'http://schema.org'
-_type: Article
+_type: MediaObject
 
 ---
-## GIRLY GIRLS
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f13838fbacdb105008b4eba07bd1430e/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F84a8a755-1538-49d3-969a-1568a0b0eff9.jpg&x=0&y=0)
+### GIRLY GIRLS
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1fcf9f333d00b753da4de4b969e7b433f404da8.jpg)
