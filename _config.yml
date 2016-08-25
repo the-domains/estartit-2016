@@ -16,5 +16,8 @@ navigation:
   - name: ACTION
     id: b934c268-3543-4cb5-a64b-f551708ab53c
     type: content
+  - name: OPERATION “SOURIRE”
+    id: 0173516e-3a86-4f0a-8841-5dea7f00f04b
+    type: content
 title: 15 jours de bonheur familial
 description: Sous le soleil catalan
