@@ -12,5 +12,9 @@ color:
     - '#AEEE00'
 layout_spectrum: 0.4242906388826668
 name: Estartit 2016
+navigation:
+  - name: ACTION
+    id: b934c268-3543-4cb5-a64b-f551708ab53c
+    type: content
 title: 15 jours de bonheur familial
 description: Sous le soleil catalan
