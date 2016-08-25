@@ -19,5 +19,8 @@ navigation:
   - name: OPERATION “SOURIRE”
     id: 0173516e-3a86-4f0a-8841-5dea7f00f04b
     type: content
+  - name: PANORAMA
+    id: 28fbe831-b1ca-433e-a6c1-f23bb4b2a82f
+    type: content
 title: 15 jours de bonheur familial
 description: Sous le soleil catalan
